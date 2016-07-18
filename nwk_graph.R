@@ -61,4 +61,5 @@ plot(net2.bp$proj1, vertex.label.color="black", vertex.label.dist=1,
      vertex.size=7, vertex.label = nodes2)
      # diagram example2
 
+# diagrams added - interconnected_women_nwk.jpg
 
