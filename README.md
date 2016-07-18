@@ -10,6 +10,7 @@ Datasets used -
 <br />(1) Social Network connections (anonymised) from Univ. of NotreDame students. 
 <br />(2) social network data from an anonymous Women's professional group. 
 <br />
+<br />
 Related images - social_nwk_notre_dame.jpg & interconnected_women_nwk.jpg respectively.
 
 
